@@ -7,7 +7,11 @@ class DevelopPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      body: const Center(child: Text("Dev")),
+      body: const Center(
+          child: Text(
+        "Dev",
+        style: TextStyle(fontSize: 20),
+      )),
     );
   }
 }
