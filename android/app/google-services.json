@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232194420854",
+    "project_id": "dh-coffee",
+    "storage_bucket": "dh-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232194420854:android:5b533f5135b7fcbf09ef57",
+        "android_client_info": {
+          "package_name": "com.example.dh_coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKoVFNF-SK-oavgj1ibNSCw0s6Kg4A7kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
